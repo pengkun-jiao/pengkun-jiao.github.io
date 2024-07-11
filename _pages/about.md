@@ -18,6 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 I'm Pengkun Jiao, a PhD student at Fudan Univeristy. 
 
-Interest areas: multi-modal large language model, computer vision, multi-modal learning, transfer learning.
+Interest areas: Multi-modal Large Language Model, Computer Vision, Transfer Learning.
 
 
