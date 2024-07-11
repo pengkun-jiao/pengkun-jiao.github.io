@@ -6,7 +6,7 @@ subtitle: <a href='#'>Fudan University</a>. Shanghai.
 
 profile:
   align: right
-  image: 8.jpg
+  image: jpk.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
