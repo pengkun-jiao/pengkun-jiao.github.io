@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Pengkun Jiao, a PhD student at Fudan Univeristy. 
+I'm Pengkun Jiao, a CS PhD student at Fudan Univeristy. 
 
 Interest areas: Multi-modal Large Language Model, Computer Vision, Transfer Learning.
 
