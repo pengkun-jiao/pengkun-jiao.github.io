@@ -21,4 +21,3 @@ I'm Pengkun Jiao, a PhD student at Fudan Univeristy.
 Interest areas: multi-modal large language model, computer vision, multi-modal learning, transfer learning.
 
 
->Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
