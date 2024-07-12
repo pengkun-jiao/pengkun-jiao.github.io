@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Pengkun Jiao, a CS PhD student at Fudan Univeristy. 
+I am Pengkun Jiao, currently undertaking my doctoral studies at the School of Computer Science, Fudan University. 
 
-Interest areas: Computer vision, Deep Learning, Multi-modal large language model.
+My research interests focused on: Computer Vision, Deep Learning, and Multi-modal Large Language Models.
 
 
