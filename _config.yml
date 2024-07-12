@@ -129,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Joe's blog # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: You can ever know
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -138,7 +138,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: False
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
