@@ -48,7 +48,6 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-    {% comment %}
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
@@ -56,7 +55,6 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
-    {% endcomment %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
