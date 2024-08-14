@@ -18,6 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 I am Pengkun Jiao, currently undertaking my doctoral studies at the School of Computer Science, Fudan University. 
 
-My research interests focused on: Computer Vision, Deep Learning, and Multi-modal Large Language Models.
+My research interests focused on: Computer Vision, Deep Learning, Domain Generalization, Test Time Adaptation, and Multi-modal Large Language Models.
 
 
