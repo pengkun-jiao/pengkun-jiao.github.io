@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Pengkun Jiao, currently undertaking my doctoral studies at the School of Computer Science, Fudan University. 
+I am Pengkun Jiao, and I am currently undertaking my doctoral studies at the School of Computer Science, Fudan University. 
 
-My research interests focused on: Computer Vision, Deep Learning, Domain Generalization, Test Time Adaptation, and Multi-modal Large Language Models.
+My research interests focused on: Computer Vision, Deep Learning, Multi-modal Large Language Models, 3D, Domain Generalization, and Test Time Adaptation.
 
 
