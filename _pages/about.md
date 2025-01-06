@@ -21,4 +21,6 @@ I am Pengkun Jiao, currently pursuing my doctoral studies at the School of Compu
 
 My research interests focused on: Computer Vision, Deep Learning, Multi-modal Large Language Models, 3D, Domain Generalization, and Test Time Adaptation.
 
+Here is my [CV](https://pengkun-jiao.github.io/assets/pdf/CV_Pengkun_Jiao.pdf).
+
 
