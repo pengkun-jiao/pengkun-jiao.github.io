@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Pengkun Jiao # the website title (if blank, full name will be used instead)
 first_name: Pengkun
 # middle_name: 
 last_name: Jiao
@@ -10,7 +10,7 @@ email: pkjiao23@m.fudan.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Pengkun Jiao's website.
 footer_text: >
-keywords: pengkun-jiao, pkjiao # add your own keywords or leave empty
+keywords: pengkun-jiao, pkjiao, 焦鹏昆 # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: P.png #⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
