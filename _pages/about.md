@@ -21,6 +21,6 @@ I am Pengkun Jiao, currently pursuing my doctoral studies at the School of Compu
 
 My research interests focused on: Multi-modal, LLMs, RL, Efficient.
 
-💼 Here is my CV [EN](https://pengkun-jiao.github.io/assets/pdf/CV_Pengkun_Jiao.pdf)/[中文](https://pengkun-jiao.github.io/assets/pdf/CV_jpk_ch.pdf).
+💼 Here is my CV [EN](https://pengkun-jiao.github.io/assets/pdf/CV_Pengkun_Jiao.pdf)/[中文](https://pengkun-jiao.github.io/assets/pdf/CV_jpk_ch.pdf). I like training LARGE models.
 
 
