@@ -127,7 +127,7 @@ $$
 ### 第三步：离线学习 + 在线零开销
 
 然而实际部署时，无法在当前解码阶段获取未来的解码信息，幸运的是，LLM 的每个头的信息保真度具有一定稳定性。如下图所示，不同任务的局部最优压缩率相近！
-![lu-kv](https://raw.githubusercontent.com/pengkun-jiao/pengkun-jiao.github.io/master/_posts/lu-kv-001.png)
+<img src="https://raw.githubusercontent.com/pengkun-jiao/pengkun-jiao.github.io/master/_posts/lu-kv-001.png" width="500">
 
 
 因此，LU-KV 采用"一次学习，多次使用"策略：
