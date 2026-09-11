@@ -22,6 +22,5 @@ My research focuses on **multimodal learning, large language models, reinforceme
   <a href="mailto:pkjiao23@m.fudan.edu.cn">Email</a>
   <a href="https://scholar.google.com/citations?user=LT8XmBUAAAAJ">Google Scholar</a>
   <a href="https://github.com/pengkun-jiao">GitHub</a>
-  <a href="{{ '/assets/pdf/CV_Pengkun_Jiao.pdf' | relative_url }}">CV (English)</a>
-  <a href="{{ '/assets/pdf/CV_jpk_ch.pdf' | relative_url }}">CV (中文)</a>
+  <a href="{{ '/assets/pdf/焦鹏昆_复旦直博.pdf' | relative_url }}">CV</a>
 </div>
