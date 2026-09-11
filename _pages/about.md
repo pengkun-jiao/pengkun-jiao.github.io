@@ -1,26 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Fudan University</a>. Shanghai.
+subtitle: Ph.D. Student · Computer Science · Fudan University
 
 profile:
   align: right
   image: jpk.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    
+  image_circular: false
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
 ---
 
-I am Pengkun Jiao, currently pursuing my doctoral studies at the School of Computer Science, Fudan University, under the supervision of [Prof. Jingjing Chen](https://jingjing1.github.io/) and [Prof. Yu-Gang Jiang](https://fvl.fudan.edu.cn/main.htm). Additionally, I am also guided by [Prof. Na Zhao](https://na-z.github.io/) and [Prof. Bin Zhu](https://binzhubz.github.io/). 
+I am a Ph.D. student at the School of Computer Science, Fudan University, advised by [Prof. Jingjing Chen](https://jingjing1.github.io/) and [Prof. Yu-Gang Jiang](https://fvl.fudan.edu.cn/main.htm). I also work under the guidance of [Prof. Na Zhao](https://na-z.github.io/) and [Prof. Bin Zhu](https://binzhubz.github.io/).
 
+My research focuses on **multimodal learning, large language models, reinforcement learning, and efficient AI**. I study reliable multimodal models and efficient adaptation and inference.
 
-My research interests focused on: Multi-modal, LLMs, RL, Efficient.
-
-💼 Here is my CV [EN](https://pengkun-jiao.github.io/assets/pdf/CV_Pengkun_Jiao.pdf)/[中文](https://pengkun-jiao.github.io/assets/pdf/CV_jpk_ch.pdf). I like training LARGE models.
-
-
+<div class="academic-links">
+  <a href="mailto:pkjiao23@m.fudan.edu.cn">Email</a>
+  <a href="https://scholar.google.com/citations?user=LT8XmBUAAAAJ">Google Scholar</a>
+  <a href="https://github.com/pengkun-jiao">GitHub</a>
+  <a href="{{ '/assets/pdf/CV_Pengkun_Jiao.pdf' | relative_url }}">CV (English)</a>
+  <a href="{{ '/assets/pdf/CV_jpk_ch.pdf' | relative_url }}">CV (中文)</a>
+</div>
